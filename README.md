@@ -9,10 +9,10 @@ I'm Gloria Gyamfi, a front-end developer passionate about building user friendly
   <a href="X.com/abenaadobea_">
     <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white"/>
      </a>
-  
+   <a href="https://www.linkedin.com/in/gloria-gyamfi-4720002b5/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+     </a><br>
  </div>
-
-https://www.linkedin.com/in/gloria-gyamfi-4720002b5/
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=GloriaGyamfi1.GloriaGyamfi1" alt="Visitor Badge" />
