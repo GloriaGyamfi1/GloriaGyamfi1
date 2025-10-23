@@ -5,9 +5,13 @@ I'm Gloria Gyamfi, a front-end developer passionate about building user friendly
  <div>
      <a href="gloriagyamfi111@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a
+     </a>
+  <a href="X.com/abenaadobea_">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+     </a>
+  
  </div>
-X.com/abenaadobea_ 
+
 https://www.linkedin.com/in/gloria-gyamfi-4720002b5/
 
 <div align="center">
