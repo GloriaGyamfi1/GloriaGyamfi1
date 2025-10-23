@@ -7,7 +7,7 @@ I'm Gloria Gyamfi, a front-end developer passionate about building user friendly
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
      </a>
   <a href="X.com/abenaadobea_">
-    <img src="https://img.shields.io/badge/Follow%20me%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white"/>
      </a>
   
  </div>
