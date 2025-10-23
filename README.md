@@ -8,7 +8,7 @@ I'm Gloria Gyamfi, a front-end developer passionate about building user friendly
      </a><br>
   <a href="X.com/abenaadobea_">
     <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white"/>
-     </a>
+     </a><br>
    <a href="https://www.linkedin.com/in/gloria-gyamfi-4720002b5/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
      </a><br>
